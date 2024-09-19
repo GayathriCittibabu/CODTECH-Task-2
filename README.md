@@ -24,3 +24,5 @@ The checkWeather() function triggers when the search button is clicked. It fetch
 If the city is found, it updates the temperature, city name, humidity, and wind speed dynamically.
 If the city is not found, an alert notifies the user.
 This creates an interactive weather app that retrieves and displays current weather conditions based on user input.
+
+![Project7](https://github.com/user-attachments/assets/19f767b3-c7e9-4c66-b2b7-a169761fd304)
